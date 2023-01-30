@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kwok/kwok:latest
+FROM registry.k8s.io/kwok/kwok
